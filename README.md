@@ -11,5 +11,5 @@ Please refer to the included report in `BigDataNetFlixProjectFinalReport_Group_3
 **Please note that some data files could not be uploaded to GitHub due to the size limit of 250 MB allowed by server.** However, these files are available by request and the result-producing code can be obtained by running the existing data files and source files if that the needed python libraries are
 installed properly.
 
-
+**Erratum:** the GitHub repository URL mentioned in the report is no longer available. The updated URL is: https://github.com/waddahmoghram/BigDataNetflixProject2018
 
